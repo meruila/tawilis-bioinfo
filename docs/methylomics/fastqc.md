@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FastQC
-parent: Scripts
+parent: Tools
 ---
 
 # FastQC

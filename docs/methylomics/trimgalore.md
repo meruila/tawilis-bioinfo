@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TrimGalore
-parent: Scripts
+parent: Tools
 ---
 
 # TrimGalore

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bismark
-parent: Scripts
+parent: Tools
 ---
 
 # Bismark

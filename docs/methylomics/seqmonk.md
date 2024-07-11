@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SeqMonk
-parent: Scripts
+parent: Tools
 ---
 
 # SeqMonk

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sherman
-parent: Scripts
+parent: Tools
 ---
 
 # Sherman

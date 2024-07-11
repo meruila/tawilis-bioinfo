@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scripts
+title: Tools
 nav_order: 3
 description: "Scripts of the methylomics team."
 has_children: true
