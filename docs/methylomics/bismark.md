@@ -14,10 +14,13 @@ See the [user guide](https://felixkrueger.github.io/Bismark/) and [paper](https:
 bismark_genome_preparation [path_to_ref_genome_directory]
 
 # Example
-bismark_genome_preparation --path_to_aligner my_path/bowtie2-2.5.1-linux-x86_64/ /my_path/Genome/Human_Genome_GRCh38.p14/ncbi_dataset/data/GCF_000001405.40_RefSeq/ 
+bismark_genome_preparation --path_to_aligner /my_path/bowtie2-2.5.1-linux-x86_64/ /my_path/Genome/Human_Genome_GRCh38.p14/ncbi_dataset/data/GCF_000001405.40_RefSeq/ 
 ```
 
-**Common error**: If the file extension of the reference genome is in .fna, change file extension to .fa:
+{: .note-title }
+> Common error
+> 
+> If the file extension of the reference genome is in .fna, change file extension to .fa:
 ```bash
 mv <file>.fna <file>.fa
 ```
