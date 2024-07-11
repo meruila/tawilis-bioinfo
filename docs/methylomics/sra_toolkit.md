@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SRA Toolkit
-parent: Methylomics
+parent: Scripts
 ---
 
 # SRA Toolkit

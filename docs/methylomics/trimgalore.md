@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TrimGalore
-parent: Methylomics
+parent: Scripts
 ---
 
 # TrimGalore

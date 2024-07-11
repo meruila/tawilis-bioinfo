@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SeqMonk
-parent: Methylomics
+parent: Scripts
 ---
 
 # SeqMonk

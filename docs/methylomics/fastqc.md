@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FastQC
-parent: Methylomics
+parent: Scripts
 ---
 
 # FastQC

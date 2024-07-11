@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sherman
-parent: Methylomics
+parent: Scripts
 ---
 
 # Sherman

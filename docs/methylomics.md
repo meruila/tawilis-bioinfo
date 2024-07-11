@@ -1,15 +1,12 @@
 ---
 layout: default
-title: Methylomics
-nav_order: 4
-description: "Guides for the tools used in methylomics."
+title: Scripts
+nav_order: 3
+description: "Scripts of the methylomics team."
 has_children: true
 has_toc: True
 ---
 
-# Methylomics
+# Methylomics Scripts
 
 Guides for the tools used in methylomics.
-
-## Pipeline
-[TODO: Pipeline]
