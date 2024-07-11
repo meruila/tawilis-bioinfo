@@ -3,3 +3,4 @@ description: Bioinformatics notebook for the tawilis multi-omics project.
 theme: just-the-docs
 
 url: https://meruila.github.io/tawilis-bioinfo/
+enable_copy_code_button: true
