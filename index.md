@@ -16,8 +16,8 @@ For any questions or concerns, kindly email Mirella at [mirarguelles@gmail.com](
 1. Pipeline
 2. Tools
     - [Bismark](./docs/methylomics/bismark.html)
-    - FastQC
-    - SRA Toolkit
+    - [FastQC](./docs/methylomics/fastqc.md)
+    - [SRA Toolkit](./docs/methylomics/sra_toolkit.md)
     - SeqMonk
     - Sherman
     - TrimGalore
