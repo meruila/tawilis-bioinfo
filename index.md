@@ -14,7 +14,7 @@ For any questions or concerns, kindly email Mirella at [mirarguelles@gmail.com](
 
 ## Contents
 1. Pipeline
-2. Scripts
+2. Tools
     - [Bismark](./docs/methylomics/bismark.html)
     - FastQC
     - SRA Toolkit
