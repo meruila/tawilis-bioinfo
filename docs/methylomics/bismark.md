@@ -8,6 +8,9 @@ parent: Tools
 Bismark performs bisulfite mapping alignments and methylation calls in whole genome bisulfite sequencing and reduced representation bisulfite sequencing. The reads are mapped using Bowtie2, a tool for aligning reads to a reference genome. After alignment, the software outputs several plaintext files that contain summaries of the percentage methylation of cytosines in CG, CHG, and CHH context. The software also provides a method for visualizing these outputs using plots and graphs in Plotly.  
 See the [user guide](https://felixkrueger.github.io/Bismark/) and [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3102221/).
 
+## Download
+Download Bismark through the Babraham Bioinformatics [website](https://www.bioinformatics.babraham.ac.uk/projects/download.html#bismark). Images can also be retrieved through [Quay.io](https://quay.io/repository/biocontainers/bismark).
+
 ## Genome Preparation
 ```bash
 # Template
